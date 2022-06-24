@@ -18,4 +18,4 @@ i like
 u can change keybind for (change keybind) script  
 but for the other script, the keybind is set to x by default  
   
-if u want to test this script u can execute it in a game and have another account of urs join to see whats rly happening
+if u want to test this script u can execute it in a game and have another account of urs join to see whats rly happening.
